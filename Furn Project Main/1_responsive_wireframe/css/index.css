@@ -1,0 +1,155 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* --------container  start----------------- */
+
+.container{
+    max-width:1320px;
+    border:1px solid red;
+    margin: 100px auto;
+}
+
+.container-fluid{
+    margin:10px auto;
+    border:1px solid red;
+}
+
+/* --------------- container end --------------- */
+
+
+
+/* --------------------- border classes start ---------------- */
+
+
+
+.b-red{
+    border:1px solid red;
+}
+.b-green{
+    border:1px solid green;
+
+}
+
+.b-blue{
+    border:1px solid blue;
+}
+.b-black{
+    border:1px solid black;
+}
+.b-orange{
+    border:1px solid orange;
+}
+
+/* ---------------------- border classes end ----------------- */
+
+
+
+/* ------------------ text center classes start --------------------- */
+
+.t-center{
+    text-align: center;
+}
+
+/* ---------------------- text center classes end ------------------ */
+
+
+
+
+
+/* ---------------- display flex classes start ----------------- */
+.row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.d-flex{
+    display: flex;
+}
+
+
+
+
+/* ----------------- display flex classes end ----------------------- */
+
+
+
+/* --------------------- background color classes ------------- */
+.back-grey{
+    background-color: grey;
+}
+/* --------------------- background color classes  end------------- */
+
+
+/* ---------------- box shadow classes start --------- */
+.b-shadow{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+
+/* -------------------------box shadow classes end--------------- */
+
+
+
+/* ------------------ border radius classes -------------- */
+
+
+.radius{
+    border-radius:10px;
+}
+
+/* --------------------- border radius classes end ------------ */
+
+
+
+/* ------------- margin and padding classes start ------------ */
+
+.p{
+    padding: 10px;
+}
+
+
+.p-10{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+/* ------------- margin and padding classes end ------------ */
+
+
+
+/* --------------- height classes starts -------------- */
+
+.h-50{
+    height:50px;
+}
+.h-100{
+    height:100px;
+}
+.h-200{
+    height:200px;
+}
+.h-300{
+    height:300px;
+}
+.h-400{
+    height:400px;
+}
+
+/* ------------------ height classes ends ---------------- */
+
+
+
+
+
+
+/* -------------- margin classes starts ------------------------- */
+.m{
+    margin:10px;
+}
+/* ------------------marign classes ends ----------------------------- */

@@ -1,0 +1,305 @@
+@media(max-width:992px){
+    .menu{
+        text-align: center;
+    }
+}
+@media(max-width:992px){
+    .w-1{
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+    }
+    .cw-1{
+        width: 100%;
+    }
+
+}
+@media(max-width:1299px){
+    .cw-2{
+        width:33.33%;
+    }
+}
+@media(max-width:993px){
+    .nav4{
+        display: flex;
+    }
+}
+@media(max-width:992px){
+    .nav{
+        /* align:center;
+        width:75%; */
+    }
+}
+
+
+@media(max-width:992px){
+    .nav1{
+        position: absolute;
+        display: none;
+        left:0px;
+        top:100px;
+        width: 100%;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        background-color: white;
+    }
+}
+   
+     .menu1{
+        padding: 10px 20px ;
+        gap: 0px;
+    }
+    .menu1 a{
+        padding: 10px 20px;
+    }
+    .menu1 a:hover{
+        background-color: gainsboro;
+    }
+    
+    
+
+
+
+
+
+    
+
+@media(max-width:786px){
+    .w-box-1{
+        width:100%;
+    }
+    .otherbox-1{
+        width: 100%;
+    }
+}
+
+
+
+@media(max-width:375px){
+    .menu{
+        text-align: center;
+    }
+    .slider-d1{
+        padding: 0;
+    }
+    .slider-d2{
+        padding: 0;
+
+    }
+    .slider-d3{
+        padding: 0;
+    }
+
+}
+@media(max-width:375px){
+    .w-1{
+      /* display: none;; */ 
+    }
+}
+@media(max-width:375px){
+    .nav4{
+        display: flex;
+    }
+}
+@media(max-width:375px){
+    .nav{
+        align:center;
+        /* width:75%; */
+    }
+}
+@media(max-width:375px){
+    .nav1{
+        display: none;
+    }
+    .cw-2{
+        width:100%;
+    }
+    .cw-1{
+        width:100%;
+    }
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .footer-1{
+        width:100%;
+    }
+}
+
+@media(max-width:992px){
+    .w-2{
+        width:50%;
+    }
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+    
+    }
+    .logo-icon{
+        width:100%;
+    }
+    .chair-img{
+        padding: 100px 40px;
+    }
+}
+
+@media(max-width:476px){
+    .slider-img1{
+        height:350px;
+        
+        padding-right: 20px;
+        width:100%;
+    }
+    .slider-d1{
+        padding: 0px 0px 0px 10px;
+
+    }
+    .slider-d2{
+        padding: 0px 0px 0px 10px;
+    }
+    .slider-d3{
+        padding: 0px 0px 0px 40px;
+    }
+    .slider-d4{
+        padding: 0px 0px 0px 20px;
+    }
+    .slider-d5{
+        padding: 0px 0px 0px 20px;
+    }
+    .slider-d6{
+        padding: 0px 0px 0px 20px;
+    }
+
+    .slider-d7{
+        padding: 0px 0px 0px 10px;
+    }
+    link{
+  
+    padding-top: 40%;
+    }
+   
+}
+
+@media(max-width:375px){
+    .w-1{
+        width:100%;
+    }
+    .cw-1{
+        width:100%;
+    }
+    
+    .slider-d7{
+        padding: 0px 0px 0px 10px;
+    }
+    .slider-d1{
+        padding: 0px 0px 0px 10px;
+
+    }
+    .slider-d2{
+        padding: 0px 0px 0px 10px;
+    }
+    .slider-d3{
+        padding: 0px 0px 0px 40px;
+    }
+    .slider-d4{
+        padding: 0px 0px 0px 20px;
+    }
+    .slider-d5{
+        padding: 0px 0px 0px 20px;
+    }
+    .slider-d6{
+        padding: 0px 0px 0px 20px;
+    }
+    .chair-img{
+        padding: 100px 40px;
+    }
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .slider-img1{
+        height:400px;
+        width:100%;
+    }
+    .footer-detail{
+        padding-left: 20px;
+    }
+    .scroll{
+        width:100%;
+        height:100%;
+    }
+    link{
+     
+   padding-top: 40%;
+   }
+}
+
+
+@media(max-width:992px){
+    .other-four{
+        padding-left: 20px;
+    margin: 10px;
+    text-align: center;
+    }
+
+    .pro-2{
+        
+        height:600px;
+        justify-content: center;
+        display: flex;
+        padding: 0px;
+        align-items: center;
+    }
+
+    .pro-1{
+        max-width:270px;
+        
+        
+        
+
+    }
+    .other-five{
+        text-align: center;
+       
+        margin: 10px;
+    }
+    .other-six{
+        text-align: center;
+  
+        margin: 10px;
+    }
+    .new-rating{
+        text-align: center;
+        padding: 10px;
+    }
+    .chair-img1{
+        text-align: center;
+    }
+
+    .fw-2{
+        width: 50%;
+    }
+ 
+}
+
+@media(max-width:767px){
+    .cw-2{
+         width: 100%;
+    }
+
+    .cw-2 > div{
+        max-width: 270px !important;
+    }
+    .fw-1{
+        width: 100%;
+    }
+    .logo-icon{
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
